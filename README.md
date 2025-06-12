@@ -71,16 +71,7 @@ By aggregating and visualizing this information, we can support healthcare provi
 
 This project is licensed under the **MIT License**.
 
----
-
-## 🙌 Contributions
-
-You are welcome to fork this repository, raise issues, or contribute enhancements, such as:
-- Adding more datasets  
-- Incorporating NLP analysis  
-- Creating predictive models for adverse events
-
----
+--
 
 ## Resources
 
